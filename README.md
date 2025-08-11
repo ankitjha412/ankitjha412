@@ -1,22 +1,17 @@
 ![Banner](https://github.com/ankitjha412/ankitjha412/blob/main/ChatGPT%20Image%20Aug%2012,%202025,%2012_52_26%20AM.png?raw=true)
 
-# 👋 Hi, I'm Ankit Jha
-
-🚀 **Full Stack Developer** | **AI/ML Enthusiast** | **Hackathon Winner**  
-🎯 Passionate about building scalable web applications, real-time systems, and AI-powered solutions.  
-💡 Skilled in both **frontend** and **backend** technologies, with hands-on experience in AI-driven projects.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFCB&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Jha;Full+Stack+Developer;AI%2FML+Enthusiast;Hackathon+Winner;Open+Source+Contributor" />
+  </a>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mongodb,cpp,js,html,css,python,java" />
+</p>
 
 ---
 
@@ -34,14 +29,22 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitjha412&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha412&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitjha412&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitjha412&show_icons=true&theme=radical&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha412&theme=radical" height="165"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+[![Ankit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitjha412&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 📫 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react)](https://ankitjha412.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankit-jha-b44435259/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ankitjha412)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:jhaankit499@gmail.com)
+<p align="center">
+  <a href="https://ankitjha412.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react" /></a>
+  <a href="https://www.linkedin.com/in/ankit-jha-b44435259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:jhaankit499@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/ankitjha412"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+</p>
