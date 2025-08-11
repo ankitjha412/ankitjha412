@@ -1,4 +1,4 @@
-https://github.com/ankitjha412/ankitjha412/blob/main/ChatGPT%20Image%20Aug%2012,%202025,%2012_52_26%20AM.png?raw=true
+![Banner](https://github.com/ankitjha412/ankitjha412/blob/main/banner.png?raw=true)
 
 # 👋 Hi, I'm Ankit Jha
 
